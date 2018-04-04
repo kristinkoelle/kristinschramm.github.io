@@ -75,6 +75,8 @@ h6{
 }
 p { 
 	font-family: 'Raleway', sans-serif;
+	color: #D3B565;
+	font-size: 2vw;
 }
 .header {
 	text-align: center;
@@ -147,7 +149,7 @@ img {
 .container1 {
     position: relative;
     text-align: center;
-	color: white;
+	color: #778899;
 
 }
 .centeredRight {
